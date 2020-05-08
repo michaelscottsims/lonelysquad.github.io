@@ -1016,15 +1016,25 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+#center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
 
 #one {
     color: #828282;
     transition: .3s;
-    margin-right: 11px;
+    margin: 7px;
 }
 
 #one:hover {
     color: #fff;
+}
+
+#last1 {
+    color: #828282;
 }
 
 #last {
