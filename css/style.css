@@ -843,6 +843,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Team Section
 --------------------------------*/
 
+#bio {
+    margin-top: 10px;
+    font-style: normal;
+}
+
 #bl {
     color: grey;
 }
