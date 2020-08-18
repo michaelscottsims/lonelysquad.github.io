@@ -750,6 +750,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio {
   background: white;
   padding: 80px 0;
+  border: 2px solid #000;
 }
 
 #portfolio #portfolio-wrapper {
@@ -803,7 +804,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio .portfolio-item img {
   position: relative;
   top: 0;
-  /* transition: all 600ms cubic-bezier(0.645, 0.045, 0.355, 1); */
+  transition: all 600ms cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
 #portfolio .portfolio-item .details {
@@ -836,9 +837,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   bottom: 0;
 }
 
-/* #portfolio .portfolio-item:hover img {
+#portfolio .portfolio-item:hover img {
   top: -30px;
-} */
+}
 
 /* Team Section
 --------------------------------*/
