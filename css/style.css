@@ -793,7 +793,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: all 350ms ease;
   -webkit-transform: scale(1);
   transform: scale(1);
-  border: 2px solid #000;
 }
 
 #portfolio .portfolio-item a {
@@ -838,7 +837,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item:hover img {
-  top: -30px;
+  /* top: -30px; */
 }
 
 /* Team Section
