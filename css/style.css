@@ -836,9 +836,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   bottom: 0;
 }
 
-#portfolio .portfolio-item:hover img {
+/* #portfolio .portfolio-item:hover img {
   top: -30px;
-}
+} */
 
 /* Team Section
 --------------------------------*/
