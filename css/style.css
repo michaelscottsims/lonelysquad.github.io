@@ -624,7 +624,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #yt {
     padding-left: 40px;
     padding-right: 40px;
-    padding-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 #services {
