@@ -810,6 +810,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio .portfolio-item img {
   position: relative;
   top: 0;
+  left: 10px;
   transition: all 600ms cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
@@ -844,7 +845,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item:hover img {
-  /* top: -30px; */
+  top: -7px;
 }
 
 /* Team Section
