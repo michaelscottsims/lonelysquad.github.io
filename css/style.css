@@ -520,7 +520,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #connectwithus {
-  font-size: 14px;
+  font-size: 13px;
+}
+
+#connectwithuslink {
+  text-decoration: underline;
 }
 
 #about {
@@ -633,8 +637,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #yt {
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 17px;
+    padding-right: 17px;
     margin-bottom: 50px;
 }
 
@@ -931,7 +935,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 .heartsupport {
-  width: 166px;
+  width: 150px;
 }
 
 #contact {
