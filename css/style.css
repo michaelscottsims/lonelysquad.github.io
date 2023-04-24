@@ -914,6 +914,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #am:hover {
   background: url("https://www.lonelysquad.com/img/amcolor2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #bvne {
@@ -928,6 +930,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #bvne:hover {
   background: url("https://www.lonelysquad.com/img/bvnecolor2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #team .member h4 {
@@ -948,6 +952,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #complex:hover {
   background: url("https://www.lonelysquad.com/img/complexcolor2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #ew {
@@ -962,6 +968,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #ew:hover {
   background: url("https://www.lonelysquad.com/img/ewcolor2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #mftl {
@@ -976,6 +984,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #mftl:hover {
   background: url("https://www.lonelysquad.com/img/mftlcolor2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #p {
@@ -1004,6 +1014,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #lbt:hover {
   background: url("https://www.lonelysquad.com/img/lbtcolor2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #team .member span {
