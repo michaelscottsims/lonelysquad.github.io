@@ -908,6 +908,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 400px;
   height: 255px;
   background-image: url("https://www.lonelysquad.com/img/ambw2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #am:hover {
@@ -920,6 +922,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 400px;
   height: 255px;
   background-image: url("https://www.lonelysquad.com/img/bvnebw2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #bvne:hover {
@@ -938,6 +942,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 400px;
   height: 255px;
   background-image: url("https://www.lonelysquad.com/img/complexbw2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #complex:hover {
@@ -950,6 +956,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 400px;
   height: 255px;
   background-image: url("https://www.lonelysquad.com/img/ewbw2.JPG");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #ew:hover {
@@ -962,6 +970,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 400px;
   height: 255px;
   background-image: url("https://www.lonelysquad.com/img/mftlbw2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #mftl:hover {
@@ -974,6 +984,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 400px;
   height: 255px;
   background-image: url("https://www.lonelysquad.com/img/pbw2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 /* #p:hover {
@@ -986,6 +998,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 400px;
   height: 255px;
   background-image: url("https://www.lonelysquad.com/img/lbtbw2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #lbt:hover {
