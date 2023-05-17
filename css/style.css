@@ -910,12 +910,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-image: url("https://www.lonelysquad.com/img/ambw2.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #am:hover {
   background: url("https://www.lonelysquad.com/img/amcolor2.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #bvne {
@@ -926,12 +932,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-image: url("https://www.lonelysquad.com/img/bvnebw2.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #bvne:hover {
   background: url("https://www.lonelysquad.com/img/bvnecolor2.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #team .member h4 {
@@ -948,12 +960,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-image: url("https://www.lonelysquad.com/img/complexbw2.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #complex:hover {
   background: url("https://www.lonelysquad.com/img/complexcolor2.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #ew {
@@ -964,12 +982,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-image: url("https://www.lonelysquad.com/img/ewbw2.JPG");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #ew:hover {
   background: url("https://www.lonelysquad.com/img/ewcolor2.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #mftl {
@@ -980,12 +1004,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-image: url("https://www.lonelysquad.com/img/mftlbw2.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #mftl:hover {
   background: url("https://www.lonelysquad.com/img/mftlcolor2.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #p {
@@ -1010,12 +1040,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-image: url("https://www.lonelysquad.com/img/lbtbw2.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #lbt:hover {
   background: url("https://www.lonelysquad.com/img/lbtcolor2.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #vm {
@@ -1026,12 +1062,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-image: url("https://www.lonelysquad.com/img/vmbw.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #vm:hover {
   background: url("https://www.lonelysquad.com/img/vmcolor.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  transition:  0.3s ease-in-out;
+    -moz-transition:  0.3s ease-in-out;
+    -webkit-transition:  0.3s ease-in-out;
 }
 
 #team .member span {
