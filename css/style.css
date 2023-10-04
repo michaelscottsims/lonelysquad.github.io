@@ -1059,7 +1059,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   max-height: 100%;
   width: 400px;
   height: 255px;
-  background-image: url("https://www.lonelysquad.com/img/vmbw.jpg");
+  background-image: url("https://www.lonelysquad.com/img/vmb.jpg");
   background-position: center;
   background-repeat: no-repeat;
   transition:  0.3s ease-in-out;
@@ -1068,7 +1068,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #vm:hover {
-  background: url("https://www.lonelysquad.com/img/vmcolor.jpg");
+  background: url("https://www.lonelysquad.com/img/vmc.jpg");
   background-position: center;
   background-repeat: no-repeat;
   transition:  0.3s ease-in-out;
